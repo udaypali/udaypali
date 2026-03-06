@@ -12,8 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: udaypali/github-activity-readme@main
+      - uses: Readme-Workflows/recent-activit@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          GH_USERNAME: udaypali
