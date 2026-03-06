@@ -101,8 +101,8 @@ Here's a glimpse into my activity and contributions on GitHub.
 
 ### ⚡ Recent Activity
 
-<!-- START_SECTION:activity -->
-<!--END_SECTION:activity -->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ---
 
