@@ -1,8 +1,6 @@
 <br>
 
-<p align="center">
-  <b style="font-size:5vw;">Hi there! 👾 I'm UDAY PALI</b>
-</p>
+# Hi there! 👾 I'm UDAY PALI
 
 <br>
 
