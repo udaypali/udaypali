@@ -1,0 +1,4 @@
+# .github/recent-activity.config.yml
+max: 5
+exclude:
+  - "workflow"
