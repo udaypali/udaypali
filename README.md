@@ -116,7 +116,7 @@ Showcasing some projects where I've leveraged my skills in security and developm
 
 **Tech Stack:** Python • Flask • Scapy • OWASP Top 10
 
-**Status:** 🚧 In Development
+**Status:** 🚧 Finished | Open Source
 
 *Pentest reporting made effortless. Pentasec is an open-source penetration testing reporting and evidence management tool that helps security professionals generate professional vulnerability reports with AI assistance.*
 
