@@ -70,10 +70,10 @@ My toolkit is a blend of development and security-focused technologies, constant
 
 Here's a glimpse into my activity and contributions on GitHub.
 
-<!-- <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=udaypali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=udaypali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaypali&layout=compact&langs_count=8&theme=tokyonight"/>
-</div> -->
+</div>
 
 <!-- ### 🏆 GitHub Achievements
 
